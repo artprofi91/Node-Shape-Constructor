@@ -2,11 +2,11 @@
 
 ## Overview
 
-I used prototypes to implement a Shape "class", and Triangle; Square; and Pentagon "subclasses". The `instanceof` operator should behave properly when used on instances of any of the three classes.
+I used prototypes to implement the Shape "class", and Triangle; Square; and Pentagon "subclasses". The `instanceof` operator should behave properly when used on instances of any of the three classes.
 
 #### Shape constructor
 
-Shape constructor has a property called type. I attached a function, called get_type such that any Shape will be able to call it.
+Shape constructor has a property called type. I attached a function, called get_type such that any Shape is able to call it.
 
 #### Triangle/Square/Pentagon constructors
 
