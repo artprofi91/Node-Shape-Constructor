@@ -1,0 +1,14 @@
+{
+  "name": "Shape constructor",
+  "version": "1.0.0",
+  "description": "Using prototypes to implement a Shape \"class\", and Triangle; Square; and Pentagon \"subclasses\".",
+  "main": "Shape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Art",
+  "license": "ISC",
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
